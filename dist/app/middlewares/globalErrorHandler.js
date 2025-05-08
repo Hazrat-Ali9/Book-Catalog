@@ -66,3 +66,4 @@ const globalErrorHandler = (error, req, res, next) => {
     });
 };
 exports.default = globalErrorHandler;
+// Global Error Handler

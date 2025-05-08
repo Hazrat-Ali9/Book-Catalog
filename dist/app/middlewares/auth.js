@@ -45,3 +45,4 @@ const authRole = (
 exports.auth = {
     authRole,
 };
+
